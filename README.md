@@ -1,0 +1,2 @@
+# Codewars-Solutions-Python
+This Repository contains my solutions of codewars problems, solutions might not be the most efficient but yes they did work
